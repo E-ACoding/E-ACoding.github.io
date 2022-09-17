@@ -1,10 +1,10 @@
-# Why Elementary School Students Should Get Candy Everyday h1
+# Why Elementary School Students Should Get Candy Everyday 
 
-## Introduction h2
+## Introduction 
 
 Elementary school students need to get more candy or treats that what they are recieving. Those nasty school lunches should have at least a saving grace. They should only recieve those treats after they finish their food, however, the reward of the candy should be encouraging. 
 
-### I believe that a standard lunch should include: h3
+### I believe that a standard lunch should include: 
 
 *A main course
 *Some sort of side dish
@@ -12,7 +12,7 @@ Elementary school students need to get more candy or treats that what they are r
 *A small piece of candy, like a fun sized one, and a sort of dessert, like a small cup of pudding
 *A drink of sorts, like milk or juice
 
-### For more resources of the new [food pyramid](https://www.myplate.gov/). h3
+### For more resources of the new [food pyramid](https://www.myplate.gov/). 
 
 Some of the reasons that I believe students deserve more candy or treats are:
 1. They will be happier during lunch, and also after lunch
